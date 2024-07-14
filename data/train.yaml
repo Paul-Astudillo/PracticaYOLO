@@ -1,0 +1,9 @@
+train: C:\\Users\\andy-\\OneDrive\\Escritorio\\7mo_CICLO\\VISION_ARTIFICIAL\\PracticaYOLO\data\train.txt
+val: C:\\Users\\andy-\\OneDrive\\Escritorio\\7mo_CICLO\\VISION_ARTIFICIAL\\PracticaYOLO\data\test.txt
+nc: 5
+names:
+  - antelope
+  - badger
+  - bat
+  - bear
+  - bee

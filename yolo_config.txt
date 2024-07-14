@@ -1,0 +1,5 @@
+classes = 5
+train = C:\Users\andy-\OneDrive\Escritorio\7mo_CICLO\VISION_ARTIFICIAL\PracticaYOLO\data\train.txt
+valid = C:\Users\andy-\OneDrive\Escritorio\7mo_CICLO\VISION_ARTIFICIAL\PracticaYOLO\data\test.txt
+names = C:\Users\andy-\OneDrive\Escritorio\7mo_CICLO\VISION_ARTIFICIAL\PracticaYOLO\classes.names
+backup = backup/
